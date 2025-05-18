@@ -9,6 +9,7 @@
 ## Задание
 
 Задание размещено в папке **task** в файле [README.md](task/README.md).
+Ссылка на сайт [тык](https://dashakineva.github.io/practice-2025-1/index.html).
 
 ## Вариативная часть задания
 
